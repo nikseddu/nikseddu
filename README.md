@@ -13,7 +13,7 @@
 
 ## 😃 About me
 
-- I'm `Nikhik`, a graduate student at UCD.
+- I'm `Nikhil`, a graduate student at UCD.
 - I'm highly passionate about Machine Learning and Data Science.
 - I am into `chess`, `food` and `gaming`.
 <br>
