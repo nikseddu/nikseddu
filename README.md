@@ -1,8 +1,3 @@
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg](https://user-images.githubusercontent.com/536449/87228151-7d711200-c39f-11ea-9cd5-a511464c430f.jpeg"
-  >
-</p>
 
 <h1 align="center">Hello, I'm Nikhil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
