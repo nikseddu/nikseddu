@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nikseddu
+- 👋 Hi, I’m Nikhil
 - 👀 I’m interested in Machine Learning, Data at Scale
-- 🌱 I’m currently learning MLOPS
+- 🌱 I’m currently looking for full time AI roles and exploring Generative AI  
 - 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me nikhil@ucdconnect.ie
+- 📫 How to reach me inikhilj@gmail.com
 
 <!---
 nikseddu/nikseddu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
